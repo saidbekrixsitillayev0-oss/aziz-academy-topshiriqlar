@@ -1,0 +1,7 @@
+matn = input()
+soz = input()
+soni = matn.count(soz)
+katta_soz = soz.upper()
+yangi_matn = matn.replace(soz, katta_soz)
+print(yangi_matn)
+print(soni)
