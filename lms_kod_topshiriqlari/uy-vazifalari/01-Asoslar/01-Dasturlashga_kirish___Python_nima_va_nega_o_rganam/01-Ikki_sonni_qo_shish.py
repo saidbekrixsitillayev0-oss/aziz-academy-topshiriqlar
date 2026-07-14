@@ -1,3 +1,3 @@
-s = int(input())
 a = int(input())
-print(s + a)
+b = int(input())
+print(a + b)
