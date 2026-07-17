@@ -1,4 +1,4 @@
-# 🎓 Aziz Academy — BERDIYOROV ULUGBEK
+# 🎓 Aziz Academy — Berdiyorov Ulugbek
 
 **Kurs:** Dasturlash / IT
 
@@ -6,8 +6,8 @@
 
 `░░░░░░░░░░░░░░░░░░░░` **0%**  (0/179 mavzu)
 
-- ⭐ Jami ball: **40140**
-- 📤 GitHubga yuborilgan topshiriqlar: **143**
+- ⭐ Jami ball: **40345**
+- 📤 GitHubga yuborilgan topshiriqlar: **144**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
@@ -63,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-17 07:09</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-17 09:43</sub>
