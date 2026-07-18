@@ -1,0 +1,1 @@
+a = input().split(); b = set(input().split()); print(*dict.fromkeys(x for x in a if x in b))
