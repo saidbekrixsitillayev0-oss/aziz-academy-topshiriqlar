@@ -1,0 +1,1 @@
+a = input().split(); t = int(input()); print(*[x for x in a if int(x) > t])
